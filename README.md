@@ -1,6 +1,8 @@
+CRIA A SALA 3 PFV. JA VOU COMITAR A 1 E 2, ESTÃO QUASE PRONTAS
+
+
 Em uma sexta-feira, chuvosa, às 22:44 horário local, gritos são ouvidos do quarto principal da mansão. O proprietário, desesperado, acaba de descobrir que um dos objetos mais valiosos de sua coleção desapareceu misteriosamente.
 Não se trata de dinheiro, joias ou obras de arte. O item roubado é o lendário Pato de Ouro, uma pequena estatueta avaliada em milhões e considerada o maior símbolo de prestígio da família.
 A polícia é imediatamente acionada, mas, devido a uma queda de energia causada pela tempestade, todas as câmeras de segurança deixaram de funcionar justamente no momento do crime. Na mansão estavam cinco pessoas, todas com acesso ao quarto e, aparentemente, todas com algo a esconder.
 Vocês foram convocados para solucionar o caso. Ao longo da investigação, será necessário interrogar suspeitos, analisar evidências, decifrar mensagens e resolver desafios para descobrir quem roubou o Pato de Ouro, como o crime foi cometido e onde está o objeto.
 
-CRIA A SALA 3 PFV. JA VOU COMITAR A 1 E 2, ESTÃO QUASE PRONTAS
