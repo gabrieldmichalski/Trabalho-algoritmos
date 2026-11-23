@@ -10,8 +10,8 @@ $salas = [
 
             1 => [
                 "titulo" => "A hora do crime",
-                "descricao" => "O relógio do quarto, que funciona em código morse, parou durante a queda de energia. Ele marcava ..--- ..--- ---... ....- ....-. Qual foi o horário registrado?",
-                "dica" => "Observe o horário mencionado no relatório policial.",
+                "descricao" => "O relógio do quarto, que funciona em código morse, parou durante a queda de energia. Ele marcava ..--- ..--- ---... ....- ....- ; Qual foi o horário registrado?",
+                "dica" => "Traduza o código morse, pesquise no Google",
                 "resposta" => "22:44"
             ],
 
